@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[StrativityGroup]]></title>
+        <description><![CDATA[StrativityGroup]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Apr 2016 15:02:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Driving a New Era of Customer Centricity</p>]]></description>
+            <link>undefineddriving-a-new-era-of-customer-centricity/index.html</link>
+            <guid isPermaLink="false">2e16dff4-90a1-4d4e-b5e1-776cd05c8e26</guid>
+            <pubDate>Tue, 12 Apr 2016 15:02:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
