@@ -1,0 +1,28 @@
+name: StrativityGroup
+favicon: null
+layout_spectrum: 0.047334593487903476
+typography_spectrum: 0.4775662503670901
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3174414439126849
+  lightness: 0.36884536989964545
+  saturation: 0.19048011349514127
+  rhythmicContrast: 0.3740919060073793
+purpose: []
